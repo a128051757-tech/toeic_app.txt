@@ -1,4 +1,4 @@
-﻿scenario,word,pos,translation,reading_context,key_point
+scenario,word,pos,translation,example,note
 一般商務,negotiate,v.,談判,The procurement team will negotiate the final price next Tuesday.,詞性變化：negotiation (n.)
 一般商務,proposal,n.,提案/建議,We are reviewing the marketing proposal to increase our market share.,易混淆：propose (v.)
 製造業,automated,adj.,自動化的,The plant has implemented an automated system to monitor quality.,常考副詞：automatically
