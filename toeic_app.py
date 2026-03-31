@@ -12,10 +12,10 @@ def load_data():
         df = pd.read_csv('toeic_data.csv')
         # --- 新增這行：自動刪除重複的單字 ---
     # subset=['word'] 代表只要單字名稱一樣，就只留下一筆
-    df = df.drop_duplicates(subset=['word'], keep='first')
+        df = df.drop_duplicates(subset=['word'], keep='first')
     
     # 清理標頭空格
-    df.columns = [c.strip().lower() for c in df.columns]
+        df.columns = [c.strip().lower() for c in df.columns]
         
         return df
     except FileNotFoundError:
