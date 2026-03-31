@@ -19,3 +19,180 @@ scenario,word,pos,translation,example,note
 外食餐飲,complimentary,adj.,贈送的/免費的,The hotel provides a complimentary breakfast for all guests.,同義字：free of charge
 娛樂招待,exhibition,n.,展覽,The tech exhibition will showcase the latest innovations in AI.,常考動詞：host / organize
 保健,appointment,n.,預約,I need to reschedule my dental appointment for next Friday.,常考片語：make/cancel an appointment
+製造業,throughput,n.,生產量/吞吐量,"The new automation script increased the daily throughput by 15%.",AE 實戰：量化績效必用
+製造業,lead time,n.,交期/前置時間,"We need to shorten the lead time for spare parts procurement.",考點：供應鏈管理
+製造業,bottleneck,n.,瓶頸,"The etching process is currently the main bottleneck in the production line.",解決問題的核心關鍵字
+技術面,specification,n.,規格,"The equipment must operate within the technical specifications.",常縮寫為 specs
+技術面,malfunction,n.,故障,"The technician identified a malfunction in the sensor array.",常考動詞：identify / rectify
+技術面,precision,adj.,精確的,"Lithography requires high-precision alignment of the optical lens.",AE 核心能力：精準度
+人事,recruitment,n.,招聘,"The recruitment process for the Senior AE position takes three months.",2027 轉職必經過程
+人事,appraisal,n.,考核/評價,"Your performance appraisal will be based on your Python automation projects.",考點：KPI 考核
+人事,probation,n.,試用期,"New employees usually undergo a three-month probation period.",外商合約常見詞彙
+金融/預算,dividend,n.,股利,"The company announced a significant increase in quarterly dividends.",對接一億資產目標
+金融/預算,asset,n.,資產,"Real estate and stocks are the primary assets in his portfolio.",對應：liability (負債)
+金融/預算,expenditure,n.,支出,"The board approved the capital expenditure for the new equipment.",對應：budget (預算)
+一般商務,negotiate,v.,談判,"The sales manager will negotiate the terms of the new contract.",多益 Part 7 高頻字
+一般商務,acquisition,n.,收購,"The acquisition of the startup will strengthen our AI capabilities.",常考片語：Mergers and Acquisitions
+一般商務,subsidiary,n.,子公司,"ASML has several subsidiaries operating in Taiwan.",考點：公司組織架構
+辦公室,memorandum,n.,備忘錄,"The director sent a memorandum regarding the new office policy.",簡寫為 memo
+辦公室,correspondence,n.,通信/信件,"Email is the primary form of business correspondence nowadays.",常考：correspondent (通訊員)
+辦公室,delegate,v.,委派/授權,"A good leader knows how to delegate tasks effectively.",考點：管理權責
+商務旅行,itinerary,n.,行程,"Please double-check your flight details in the travel itinerary.",常考細節：機票與酒店
+商務旅行,boarding pass,n.,登機證,"You must present your boarding pass at the gate.",機場場景核心單字
+採購,invoice,n.,發票/帳單,"The finance department is processing the invoice for the chemicals.",常考動詞：issue / settle
+採購,vendor,n.,供應商,"The vendor promised to deliver the components by Friday.",同義字：supplier
+外食餐飲,reservation,n.,預約,"I'd like to make a dinner reservation for four at 7 PM.",同義字：booking
+保健,appointment,n.,預約,"You need to make an appointment before seeing the specialist.",醫院/診所場景必考
+房地產,lease,n.,租約,"The lease for the warehouse is set to expire next month.",考點：租賃契約
+企業發展,restructure,v.,改組/重組,"The company plans to restructure its engineering department.",對應：關廠/組織異動情境
+製造業,throughput,n.,生產量/吞吐量,"We need to optimize the workflow to maximize daily throughput.",AE 實戰：量化績效指標
+製造業,yield,n.,良率/產量,"The latest process adjustment significantly improved the wafer yield.",面板/半導體廠核心詞
+製造業,downtime,n.,停機時間,"The technician is working hard to minimize the equipment downtime.",考點：維修與效率
+製造業,contamination,n.,污染,"Any form of contamination in the cleanroom can ruin the batch.",無塵室必備單字
+製造業,assembly,n.,組裝,"The final assembly of the components is done in the automated plant.",常考：assembly line (組裝線)
+技術面,specification,n.,規格/說明書,"Please ensure the tool operates according to the technical specifications.",常縮寫為 specs
+技術面,malfunction,n.,故障,"The system recorded a malfunction in the cooling unit at 2 AM.",常考動詞：identify / rectify
+技術面,precision,adj.,精確的,"Lithography requires high-precision alignment of the sensors.",AE 核心能力：精準度
+技術面,parameter,n.,參數,"The engineer is fine-tuning the parameters for the etching process.",實戰：調機、設參數
+技術面,upgrade,v./n.,升級,"A software upgrade is required to support the new hardware features.",考點：系統更新
+人事,remuneration,n.,報酬/薪資,"The remuneration package for the AE position includes stock options.",2027 轉職談判關鍵字
+人事,relocation,n.,搬遷/外派,"The company offers a relocation allowance for employees moving to Hsinchu.",考點：補貼、搬遷
+人事,probation,n.,試用期,"New hires must complete a three-month probation period successfully.",外商合約常見詞彙
+人事,recruitment,n.,招聘,"The recruitment agency is looking for candidates with engineering backgrounds.",考點：找人、面試
+人事,appraisal,n.,考核/評價,"Your annual performance appraisal is scheduled for next Wednesday.",考點：KPI 與晉升
+金融/預算,dividend,n.,股利,"The board of directors decided to issue a higher dividend this year.",對接一億資產目標
+金融/預算,portfolio,n.,投資組合,"Diversifying your stock portfolio is essential for long-term growth.",對應：asset allocation
+金融/預算,expenditure,n.,支出,"Capital expenditure for the new fab has been approved by the board.",對應：budget (預算)
+金融/預算,audit,n./v.,審計,"The company undergoes a financial audit at the end of every fiscal year.",考點：查帳、核實
+金融/預算,liability,n.,負債,"Total assets must be sufficient to cover the company's liabilities.",對應：asset (資產)
+一般商務,negotiate,v.,談判,"The procurement team will negotiate the final price with the supplier.",多益 Part 7 高頻字
+一般商務,acquisition,n.,收購,"The acquisition of the smaller firm will expand our market presence.",常考：Mergers and Acquisitions
+一般商務,subsidiary,n.,子公司,"ASML has several subsidiaries operating in major technology hubs.",考點：組織架構
+一般商務,strategy,n.,策略,"The CEO presented a new strategy to increase global sales.",形容詞：strategic
+一般商務,partnership,n.,合夥關係,"The two companies formed a strategic partnership to develop AI tools.",考點：企業結盟
+辦公室,memorandum,n.,備忘錄,"The HR manager issued a memorandum regarding the new office hours.",簡寫：memo
+辦公室,correspondence,n.,通信/信件,"Please keep a record of all business correspondence with the client.",考點：Email、書信往返
+辦公室,delegate,v.,委派/授權,"Effective managers know how to delegate tasks to their team members.",考點：管理權責
+辦公室,confidential,adj.,機密的,"All employee records are strictly confidential and stored securely.",名詞：confidentiality
+辦公室,stationary,n.,文具,"We need to order more office stationary, including pens and paper.",注意：同音異義字 stationery
+採購,invoice,n.,發票/帳單,"The vendor sent an invoice for the raw materials delivered last week.",常考動詞：issue / settle
+採購,vendor,n.,供應商,"We are evaluating multiple vendors for the new equipment contract.",同義字：supplier
+採購,procurement,n.,採購,"The procurement department is responsible for sourcing all components.",動詞：procure
+採購,quotation,n.,報價單,"Please provide a formal quotation for the repair services.",簡寫：quote
+採購,inventory,n.,庫存,"We need to perform a monthly inventory check to avoid shortages.",考點：盤點、缺貨
+商務旅行,itinerary,n.,行程,"The travel agency provided a detailed itinerary for the business trip.",常考：flight numbers / hotels
+商務旅行,boarding pass,n.,登機證,"Please have your passport and boarding pass ready at the gate.",機場場景核心單字
+商務旅行,accommodation,n.,住宿,"The company will cover all travel and accommodation expenses.",動詞：accommodate
+商務旅行,reimburse,v.,核銷/退還,"You will be reimbursed for all business-related travel expenses.",常考片語：reimbursed for
+商務旅行,departure,n.,出發/離開,"The flight departure was delayed by two hours due to the weather.",反義字：arrival
+企業發展,restructure,v.,改組/重組,"The company plans to restructure its engineering department.",考點：組織變革
+企業發展,expansion,n.,擴張,"The global expansion of the fab will create hundreds of new jobs.",動詞：expand
+企業發展,merger,n.,合併,"The merger between the two giants shook the semiconductor industry.",常考：M&A
+房地產,lease,n./v.,租約/出租,"The lease on the office building will expire in December.",考點：租賃契約
+房地產,premises,n.,房屋/經營場所,"No smoking is allowed on the company premises.",考點：廠區、辦公場所
+外食餐飲,complimentary,adj.,贈送的/免費的,"The hotel provides a complimentary breakfast for its guests.",同義字：free of charge
+外食餐飲,reservation,n.,預約,"I'd like to make a dinner reservation for a party of six.",同義字：booking
+娛樂招待,exhibition,n.,展覽,"The tech exhibition will showcase the latest innovations in lithography.",常考動詞：host / organize
+保健,appointment,n.,預約,"I need to reschedule my dental appointment for next Friday.",常考：medical checkup
+保健,pharmacy,n.,藥局,"You can pick up your prescription at the hospital pharmacy.",考點：領藥、醫生處方
+製造業,defect,n.,缺點/瑕疵,"The quality control team identified a minor defect in the sensor.",考點：零組件瑕疵
+製造業,shift,n.,輪班/更換,"He is currently working the night shift at the manufacturing plant.",實戰：無塵室輪班
+製造業,logistics,n.,物流,"Efficient logistics are crucial for timely delivery of raw materials.",AE 常用字
+製造業,automated,adj.,自動化的,"The production line is fully automated to reduce human error.",副詞：automatically
+製造業,inspection,n.,檢查,"A thorough inspection is required before shipping the components.",動詞：inspect
+製造業,maintenance,n.,維修/保養,"Preventive maintenance extends the lifespan of the equipment.",常考：scheduled maintenance
+製造業,output,n.,產量,"The total output decreased due to the equipment failure.",對應：input
+製造業,supervisor,n.,監督者/主管,"The shop floor supervisor is responsible for safety protocols.",動詞：supervise
+製造業,batch,n.,一批,"The latest batch of wafers passed all reliability tests.",生產單位：一批
+製造業,protocol,n.,協議/程序,"Employees must strictly follow the safety protocols.",常用於 SOP
+技術面,innovation,n.,創新,"Technological innovation is the key to maintaining a competitive edge.",形容詞：innovative
+技術面,prototype,n.,原型,"The engineers are testing the prototype for the new lithography tool.",AE 產品研發期
+技術面,compatible,adj.,相容的,"The new software is compatible with older hardware versions.",介系詞固定搭配：compatible with
+技術面,implementation,n.,實施/執行,"The implementation of the new system took three months.",動詞：implement
+技術面,analysis,n.,分析,"Data analysis reveals a trend in the production efficiency.",複數：analyses
+技術面,specialized,adj.,專業的/專門的,"He has specialized knowledge in thin-film transistor technology.",動詞：specialize in
+技術面,upgrade,v./n.,升級,"A hardware upgrade is necessary to improve system performance.",考點：版本更新
+技術面,specification,n.,規格,"Check the specifications before ordering the spare parts.",簡寫：specs
+技術面,feature,n.,特色,"The main feature of this tool is its high precision.",動詞：以...為特色
+技術面,solution,n.,解決方案,"Our team provides customized solutions for manufacturing issues.",動詞：solve
+人事,vacancy,n.,空缺,"There is a job vacancy for a senior process engineer.",同義字：opening
+人事,candidate,n.,候選人,"The interview panel is evaluating several qualified candidates.",外商 AE 面試必背
+人事,incentive,n.,獎勵/動機,"The company offers performance incentives to boost productivity.",2027 談 Offer 關鍵
+人事,allowance,n.,津貼,"The relocation allowance covers moving expenses to Hsinchu.",外派常用單字
+人事,severance,n.,資遣費,"The employee received a generous severance package.",2027 入職前可能領到的錢
+人事,probation,n.,試用期,"After the probation period, he was offered a permanent contract.",外商正式入職必經
+人事,appraisal,n.,考核/評價,"Your annual performance appraisal is coming up next month.",考點：KPI 考核
+人事,remuneration,n.,酬勞/薪資,"The remuneration package includes base salary and health insurance.",多益 Part 7 高頻詞
+人事,promotion,n.,升職/晉升,"He earned a promotion to manager after only two years.",動詞：promote
+人事,resignation,n.,辭職,"The director submitted his resignation effective immediately.",動詞：resign
+人事,recruit,v./n.,招募/新成員,"The company aims to recruit top talent from local universities.",名詞：recruitment
+人事,benefit,n.,福利/利益,"Full-time employees are eligible for additional health benefits.",考點：員工福利
+人事,qualification,n.,資格,"Do you have the necessary qualifications for this position?",形容詞：qualified
+人事,contract,n.,合約,"Please review the terms of the employment contract carefully.",動詞：收縮/感染
+人事,overtime,n./adv.,加班,"He had to work overtime to meet the production deadline.",注意：pay overtime
+金融/預算,dividend,n.,股利,"The company pays dividends to its shareholders quarterly.",對接一億資產目標
+金融/預算,inflation,n.,通貨膨脹,"Inflation rates have affected the cost of living significantly.",對應：interest rate
+金融/預算,revenue,n.,營收,"The annual revenue reached an all-time high last year.",對應：expenditure
+金融/預算,liability,n.,負債/責任,"The company's assets exceed its total liabilities.",對應：asset
+金融/預算,audit,n./v.,審計,"The external auditor will review our financial records.",考點：查帳
+金融/預算,portfolio,n.,投資組合,"He managed a diverse investment portfolio of stocks and bonds.",對應：asset allocation
+金融/預算,mortgage,n.,抵押貸款,"The monthly mortgage payment is deducted automatically.",對應：買房、房貸
+金融/預算,transaction,n.,交易,"The bank keeps a record of every online transaction.",動詞：transact
+金融/預算,interest,n.,利息/興趣,"The bank offers a competitive interest rate on savings.",注意：compound interest
+金融/預算,budget,n.,預算,"We need to operate within the allocated project budget.",形容詞：budgetary
+一般商務,strategy,n.,策略,"A clear business strategy is essential for long-term success.",形容詞：strategic
+一般商務,competitor,n.,競爭者,"We must monitor our competitors' price changes.",動詞：compete
+一般商務,negotiate,v.,談判,"The sales team is negotiating the final terms of the deal.",名詞：negotiation
+一般商務,partnership,n.,合夥關係,"The two companies formed a strategic partnership.",考點：結盟
+一般商務,merger,n.,合併,"The merger of the two airlines created a global giant.",常考：M&A
+一般商務,subsidiary,n.,子公司,"The parent company has several subsidiaries in Asia.",考點：企業結構
+一般商務,signature,n.,簽名,"A valid signature is required for the document to be legal.",動詞：sign
+一般商務,client,n.,客戶,"Providing excellent service is the key to retaining clients.",同義字：customer
+一般商務,branch,n.,分部/分支,"The bank opened a new branch in the technology park.",對應：headquarters
+一般商務,agreement,n.,協議,"Both parties have reached an agreement on the pricing.",反義字：disagreement
+辦公室,administrative,adj.,行政的,"She handles all administrative tasks for the department.",名詞：administrator
+辦公室,clerical,adj.,文書的,"Clerical duties include filing documents and answering phones.",名詞：clerk
+辦公室,distribution,n.,分配/分發,"The distribution of the memo was delayed.",動詞：distribute
+辦公室,agenda,n.,議程,"What is the first item on the meeting agenda today?",常考：hidden agenda
+辦公室,minutes,n.,會議紀錄,"The secretary is responsible for taking the meeting minutes.",注意：複數才代表會議紀錄
+辦公室,correspondence,n.,通信/信件,"Email is the most common form of business correspondence.",動詞：correspond
+辦公室,memo,n.,備忘錄,"The HR department issued a memo about the holiday.",全稱：memorandum
+辦公室,confidential,adj.,機密的,"All personnel files are strictly confidential.",名詞：confidentiality
+辦公室,delegate,v.,委派/授權,"Manager should delegate tasks to improve efficiency.",名詞：代表
+辦公室,filing,n.,存檔,"The filing system needs to be organized alphabetically.",動詞：file
+採購,wholesale,n./adj.,批發,"The company buys raw materials at wholesale prices.",反義字：retail
+採購,discount,n./v.,折扣,"Bulk orders are eligible for a significant discount.",考點：打折、優惠
+採購,receipt,n.,收據,"Please keep your receipt for the expense reimbursement.",動詞：receive
+採購,shipping,n.,運送,"Free shipping is offered on orders over five hundred dollars.",動詞：ship
+採購,delivery,n.,遞送,"The expected delivery date is next Tuesday.",動詞：deliver
+採購,vendor,n.,供應商,"We are looking for a reliable vendor for the chips.",同義字：supplier
+採購,invoice,n.,發票,"The finance team is processing the invoice for the equipment.",常考：issue an invoice
+採購,quotation,n.,報價單,"Could you provide a formal quotation for the service?",簡寫：quote
+採購,inventory,n.,庫存,"We need to conduct a physical inventory check every quarter.",常考：in stock
+採購,procurement,n.,採購,"The procurement manager negotiates with global suppliers.",動詞：procure
+商務旅行,reservation,n.,預約,"I'd like to confirm my hotel reservation for next week.",同義字：booking
+商務旅行,shuttle,n.,接駁車,"The hotel provides a free shuttle service to the airport.",常考：shuttle bus
+商務旅行,delayed,adj.,延遲的,"The flight was delayed by two hours due to heavy rain.",動詞：delay
+商務旅行,itinerary,n.,行程,"Please send a copy of your travel itinerary to the assistant.",考點：機票、行程單
+商務旅行,transfer,v./n.,轉機/轉移,"You need to transfer to a different train at the next station.",考點：轉機、調職
+商務旅行,boarding,n.,登機,"Boarding will begin thirty minutes before departure.",常考：boarding pass
+商務旅行,accommodation,n.,住宿,"The company covers all travel and accommodation expenses.",動詞：accommodate
+商務旅行,reimburse,v.,報帳/核銷,"You will be reimbursed for all business travel expenses.",名詞：reimbursement
+商務旅行,departure,n.,出發,"Check the departure board for your flight status.",反義字：arrival
+商務旅行,destination,n.,目的地,"Kyoto is a popular destination for business conferences.",考點：旅遊目的地
+房地產,landlord,n.,房東,"The landlord is responsible for major repairs to the property.",反義字：tenant
+房地產,tenant,n.,房客,"The tenant signed a two-year lease for the apartment.",對應：rent
+房地產,renovate,v.,裝修,"The company plans to renovate the office building.",名詞：renovation
+房地產,lease,n./v.,租約,"The commercial lease will expire at the end of the year.",考點：房屋租賃
+房地產,property,n.,財產/地產,"The real estate agent showed us several luxury properties.",同義字：real estate
+外食餐飲,appetizer,n.,開胃菜,"We ordered some appetizers before the main course.",同義字：starter
+外食餐飲,beverage,n.,飲料,"Complimentary beverages are served during the flight.",常見：alcoholic beverage
+外食餐飲,menu,n.,菜單,"The restaurant changes its menu every season.",注意：special menu
+外食餐飲,reservation,n.,預約,"It is difficult to get a reservation at this restaurant.",動詞：reserve
+外食餐飲,tip,n./v.,小費,"In some countries, it is customary to leave a tip.",同義字：gratuity
+娛樂招待,venue,n.,場地,"The convention center is a popular venue for trade shows.",考點：活動場地
+娛樂招待,performance,n.,表演,"The evening performance of the musical was sold out.",動詞：perform
+娛樂招待,exhibition,n.,展覽,"The technology exhibition showcases the latest AI tools.",動詞：exhibit
+保健,prescription,n.,處方,"The pharmacist prepared the medication based on the prescription.",動詞：prescribe
+保健,symptom,n.,症狀,"Please describe your symptoms to the doctor.",考點：感冒、發燒症狀
+保健,clinic,n.,診所,"There is a small medical clinic near the technology park.",對應：hospital
