@@ -636,3 +636,43 @@ scenario,word,pos,translation,example,note
 房地產	premises	n.	房屋/經營場所	No smoking is allowed on the premises.	考點：廠區場所	
 房地產	mortgage	n.	抵押貸款	They are paying off a 20-year mortgage.	動詞：抵押	
 房地產	agent	n.	經紀人	The real estate agent helped us find an office.	考點：房地產仲介	
+採購	requisition	n.	申請單	Please submit a formal requisition for the new laboratory tools.	考點：辦公室流程	
+採購	negotiate	v.	談判	The manager is negotiating the terms of the annual service contract.	名詞：negotiation	
+採購	vendor	n.	供應商	The vendor promised to fix the software bug by Monday.	同義字：supplier	
+採購	bulk	adj.	大宗的/大量的	Bulk orders are eligible for a ten percent discount.	考點：大宗採購優惠	
+製造業	stagnant	adj.	停滯的	The production yield remained stagnant despite the process changes.	反義字：dynamic (動態的)	
+製造業	optimization	n.	優化	The goal of Python automation is process optimization.	動詞：optimize	
+製造業	contamination	n.	污染	Strict cleanroom protocols prevent wafer contamination.	動詞：contaminate	
+技術面	redundancy	n.	備援/冗餘	System redundancy ensures the factory keeps running during a power failure.	AE 核心觀念	
+技術面	intermittent	adj.	間歇性的	The intermittent error was difficult to diagnose and fix.	形容詞：斷斷續續的	
+技術面	calibration	n.	校準	Precision calibration is required for all measuring instruments.	動詞：calibrate	
+技術面	compatible	adj.	相容的	The new interface is compatible with existing equipment.	名詞：compatibility	
+一般商務	itinerary	n.	行程	The executive's travel itinerary includes stops in Tokyo and Hsinchu.	考點：出差細節	
+一般商務	monopoly	n.	壟斷	The company holds a monopoly in the high-end sensor market.	考點：市場競爭	
+人事	probation	n.	試用期	He successfully completed his probation and was offered a permanent role.	外商入職常見	
+人事	appraisal	n.	考核	Annual performance appraisals are used to determine bonuses.	考點：KPI 考核	
+人事	relocation	n.	搬遷/派駐	The company offers a relocation package for engineers moving overseas.	動詞：relocate	
+金融/預算	reimbursement	n.	核銷	Travel reimbursement requests must be submitted with receipts.	動詞：reimburse	
+金融/預算	fluctuation	n.	波動	We must monitor the price fluctuations of raw materials.	動詞：fluctuate	
+辦公室	clerical	adj.	文書的	The internship involves various clerical tasks and data entry.	名詞：clerk	
+技術面	deviation	n.	偏差/異常	Any deviation from the standard process must be reported immediately.	AE 實務：製程偏移	
+技術面	integrity	n.	完整性/誠實	Data integrity is crucial for a reliable yield analysis.	考點：數據完整性	
+技術面	facilitate	v.	促進/便利	The new automation tool will facilitate faster troubleshooting.	同義字：help / promote	
+製造業	throughput	n.	生產量	We aim to double the daily throughput by the end of Q4.	考點：量化績效	
+製造業	bottleneck	n.	瓶頸	The etching process has become the major bottleneck in the fab.	常用於效率優化	
+製造業	maintenance	n.	維修/保養	Preventive maintenance is scheduled for every Sunday morning.	動詞：maintain	
+一般商務	compliance	n.	合規/遵守	Our factory operates in full compliance with environmental laws.	動詞：comply with	
+一般商務	monopoly	n.	壟斷	Technological barriers have created a natural monopoly in the industry.	考點：市場競爭	
+一般商務	consensus	n.	共識	The board finally reached a consensus on the new R&D budget.	常用於會議結論	
+一般商務	contingency	n.	應急措施/意外事故	We have a contingency plan in case of a power outage.	考點：備案	
+人事	remuneration	n.	酬勞/薪資	The remuneration package includes a performance-based bonus.	2027 談 Offer 關鍵字	
+人事	mandatory	adj.	強制的/必須的	The safety training is mandatory for all new hires.	反義字：optional	
+人事	probation	n.	試用期	New engineers must complete their probation before getting a raise.	外商入職常見	
+金融/預算	dividend	n.	股利	Investors are happy with the increase in quarterly dividends.	對接一億資產目標	
+金融/預算	allocation	n.	分配/配置	The asset allocation strategy should be reviewed annually.	對應：asset portfolio	
+金融/預算	expenditure	n.	支出/經費	Capital expenditure for the new equipment was approved.	對應：revenue (營收)	
+採購	expedite	v.	加速/催促	Could you please expedite the shipment of the spare parts?	AE 實務：催促供應商	
+採購	procurement	n.	採購	The procurement department is evaluating three different vendors.	人：purchaser	
+辦公室	confidential	adj.	機密的	This memorandum contains confidential information about the project.	名詞：confidentiality	
+商務旅行,itinerary,n.,行程,"Please double-check the flight numbers in your itinerary.",考點：出差單據						
+採購	expedite	v.	加速/催促	We need to expedite the delivery of the lithography parts.	AE 實務：催料常用字	
