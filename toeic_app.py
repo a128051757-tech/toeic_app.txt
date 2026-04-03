@@ -5,10 +5,9 @@ from gtts import gTTS
 import io
 import re
 
-# --- 1. 頁面優化設定 ---
+# 頁面基礎設定
 st.set_page_config(page_title="育漢的多益戰情室", layout="centered")
 
-# --- 2. 語音核心函數 ---
 def speak(text):
     try:
         tts = gTTS(text=text, lang='en')
@@ -16,33 +15,28 @@ def speak(text):
         tts.write_to_fp(fp)
         st.audio(fp, format='audio/mp3')
     except:
-        st.error("語音讀取暫時發生錯誤。")
+        st.error("語音暫時無法使用。")
 
-# --- 3. 資料載入與清理 ---
 @st.cache_data
 def load_data():
     try:
         df = pd.read_csv('toeic_data.csv')
         df.columns = [c.strip().lower() for c in df.columns]
-        # 自動刪除重複單字，保持資料庫純淨
         df = df.drop_duplicates(subset=['word'], keep='first')
         return df
-    except Exception as e:
-        st.error(f"請確認 toeic_data.csv 檔案是否存在且格式正確。錯誤: {e}")
+    except:
         return None
 
 df = load_data()
 
-# --- 4. 初始化 Session State (修正選項亂跳的關鍵) ---
-if 'wrong_words' not in st.session_state: st.session_state.wrong_words = []
-if 'quiz_word' not in st.session_state: st.session_state.quiz_word = None
-if 'quiz_options' not in st.session_state: st.session_state.quiz_options = []
-if 'cloze_word' not in st.session_state: st.session_state.cloze_word = None
-if 'current_card' not in st.session_state: st.session_state.current_card = None
+# 初始化所有 Session State
+states = ['wrong_words', 'quiz_word', 'quiz_options', 'cloze_word', 'cloze_options', 'current_card']
+for s in states:
+    if s not in st.session_state: st.session_state[s] = None if 'word' in s or 'card' in s else []
 
-# --- 5. 主選單介面 ---
 st.title("🎯 育漢的多益 AI 戰情室")
 mode = st.sidebar.radio("切換模式", ["🎴 單字刷題", "✍️ 四選一測驗", "🧠 填空挑戰", "🕵️ 弱點分析"])
+
 
 if df is not None:
     # --- 模式 A：單字刷題 ---
@@ -99,32 +93,54 @@ if df is not None:
                 if q['word'] not in st.session_state.wrong_words:
                     st.session_state.wrong_words.append(q['word'])
 
-    # --- 模式 C：填空挑戰 (Part 5/6 強化) ---
-    elif mode == "🧠 填空挑戰":
-        st.subheader("上下句填空練習")
+    # --- 模式 C：填空挑戰 (新增提示與選擇功能) ---
+    if mode == "🧠 填空挑戰":
+        st.subheader("上下文填空 (Part 5/6 強化)")
         
-        if st.button("🆕 隨機出題") or st.session_state.cloze_word is None:
-            # 確保有例句可以練習
+        # 難度設定
+        quiz_type = st.radio("選擇練習方式：", ["手寫填空 (有提示)", "選擇填空 (4選1)"], horizontal=True)
+        
+        if st.button("🆕 換一題") or st.session_state.cloze_word is None:
             valid_df = df[df['example'].notna()]
             st.session_state.cloze_word = valid_df.sample(1).iloc[0]
+            # 為「選擇填空」準備選項
+            correct = st.session_state.cloze_word['word']
+            others = df[df['word'] != correct]['word'].unique().tolist()
+            opts = random.sample(others, 3) + [correct]
+            random.shuffle(opts)
+            st.session_state.cloze_options = opts
 
         w = st.session_state.cloze_word
-        # 使用正則表達式把句子中的單字隱藏 (不分大小寫)
         hidden_sentence = re.sub(w['word'], "__________", w['example'], flags=re.IGNORECASE)
         
         st.warning(f"### {hidden_sentence}")
-        st.caption(f"提示：[{w['pos']}] {w['translation']}")
-        
-        user_input = st.text_input("請輸入正確單字：").strip()
+        st.caption(f"中文翻譯：{w['translation']} ({w['pos']})")
 
-        if st.button("檢查"):
-            if user_input.lower() == w['word'].lower():
-                st.success(f"🎊 正確！單字就是 **{w['word']}**")
-                speak(w['word'])
-            else:
-                st.error(f"❌ 答錯了，正確答案是：**{w['word']}**")
-                if w['word'] not in st.session_state.wrong_words:
-                    st.session_state.wrong_words.append(w['word'])
+        if quiz_type == "手寫填空 (有提示)":
+            # 提示邏輯：顯示首字母 + 長度
+            hint = f"{w['word'][0]} " + "_ " * (len(w['word']) - 1)
+            st.code(f"提示 (長度 {len(w['word'])}): {hint}")
+            user_input = st.text_input("請輸入正確單字：", key="cloze_text").strip()
+            
+            if st.button("檢查答案"):
+                if user_input.lower() == w['word'].lower():
+                    st.success(f"🎊 正確！答案是 {w['word']}")
+                    speak(w['word'])
+                else:
+                    st.error(f"❌ 答錯了，再想一下？ (正確答案：{w['word']})")
+                    if w['word'] not in st.session_state.wrong_words:
+                        st.session_state.wrong_words.append(w['word'])
+
+        else: # 選擇填空
+            user_choice = st.radio("請從下方選出正確單字：", st.session_state.cloze_options)
+            if st.button("確認選擇"):
+                if user_choice == w['word']:
+                    st.success(f"✅ 答對了！{w['word']}")
+                    speak(w['word'])
+                else:
+                    st.error(f"❌ 不對喔，正確答案是：{w['word']}")
+                    if w['word'] not in st.session_state.wrong_words:
+                        st.session_state.wrong_words.append(w['word'])
 
     # --- 模式 D：弱點分析 ---
     elif mode == "🕵️ 弱點分析":
