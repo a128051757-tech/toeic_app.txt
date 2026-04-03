@@ -5,7 +5,6 @@ from gtts import gTTS
 import io
 import re
 
-# 頁面基礎設定
 st.set_page_config(page_title="育漢的多益戰情室", layout="centered")
 
 def speak(text):
@@ -22,23 +21,61 @@ def load_data():
     try:
         df = pd.read_csv('toeic_data.csv')
         df.columns = [c.strip().lower() for c in df.columns]
+        # 確保讀取時處理缺失值，避免文法題出錯
+        df['type'] = df['type'].fillna('vocab')
         df = df.drop_duplicates(subset=['word'], keep='first')
         return df
     except:
+        st.error("請檢查 CSV 格式。")
         return None
 
 df = load_data()
 
-# 初始化所有 Session State
-states = ['wrong_words', 'quiz_word', 'quiz_options', 'cloze_word', 'cloze_options', 'current_card']
+# 初始化狀態 (加入文法專用狀態)
+states = ['wrong_words', 'quiz_word', 'quiz_options', 'cloze_word', 'cloze_options', 'current_card', 'grammar_word', 'grammar_options']
 for s in states:
     if s not in st.session_state: st.session_state[s] = None if 'word' in s or 'card' in s else []
 
 st.title("🎯 育漢的多益 AI 戰情室")
-mode = st.sidebar.radio("切換模式", ["🎴 單字刷題", "✍️ 四選一測驗", "🧠 填空挑戰", "🕵️ 弱點分析"])
-
+mode = st.sidebar.radio("切換模式", ["🎴 單字刷題", "✍️ 四選一測驗", "🧠 填空挑戰", "📑 文法特訓", "🕵️ 弱點分析"])
 
 if df is not None:
+    # --- 模式 D：文法特訓 (New!) ---
+    if mode == "📑 文法特訓":
+        st.subheader("多益 Part 5 詞性變化專區")
+        
+        # 只過濾出文法題
+        grammar_df = df[df['type'] == 'grammar']
+        
+        if st.button("🆕 下一題") or st.session_state.grammar_word is None:
+            if not grammar_df.empty:
+                st.session_state.grammar_word = grammar_df.sample(1).iloc[0]
+                # 解析四個選項
+                opts = st.session_state.grammar_word['options_hint'].split(',')
+                random.shuffle(opts)
+                st.session_state.grammar_options = opts
+            else:
+                st.warning("目前 CSV 中沒有 type 為 grammar 的資料。")
+
+        if st.session_state.grammar_word is not None:
+            g = st.session_state.grammar_word
+            # 隱藏題目中的答案
+            hidden_sentence = re.sub(g['word'], "__________", g['example'], flags=re.IGNORECASE)
+            
+            st.info(f"### {hidden_sentence}")
+            st.caption(f"提示：情境 - {g['scenario']} | 翻譯：{g['translation']}")
+            
+            user_choice = st.radio("請選擇最符合語法的詞性：", st.session_state.grammar_options)
+            
+            if st.button("提交"):
+                if user_choice.strip() == g['word']:
+                    st.success(f"✅ 正確！這裡需要一個 {g['pos']}。")
+                    speak(g['word'])
+                else:
+                    st.error(f"❌ 不對喔，正確答案是：{g['word']} ({g['pos']})")
+                    if g['word'] not in st.session_state.wrong_words:
+                        st.session_state.wrong_words.append(g['word'])
+
     # --- 模式 A：單字刷題 ---
     if mode == "🎴 單字刷題":
         st.subheader("隨機單字卡")
@@ -153,40 +190,6 @@ if df is not None:
             if st.button("🗑️ 清空紀錄"):
                 st.session_state.wrong_words = []
                 st.rerun()
-    # --- 模式 E：文法特訓 (New!) ---
-    if mode == "📑 文法特訓":
-        st.subheader("多益 Part 5 詞性變化專區")
-        
-        # 只過濾出文法題
-        grammar_df = df[df['type'] == 'grammar']
-        
-        if st.button("🆕 下一題") or st.session_state.grammar_word is None:
-            if not grammar_df.empty:
-                st.session_state.grammar_word = grammar_df.sample(1).iloc[0]
-                # 解析四個選項
-                opts = st.session_state.grammar_word['options_hint'].split(',')
-                random.shuffle(opts)
-                st.session_state.grammar_options = opts
-            else:
-                st.warning("目前 CSV 中沒有 type 為 grammar 的資料。")
 
-        if st.session_state.grammar_word is not None:
-            g = st.session_state.grammar_word
-            # 隱藏題目中的答案
-            hidden_sentence = re.sub(g['word'], "__________", g['example'], flags=re.IGNORECASE)
-            
-            st.info(f"### {hidden_sentence}")
-            st.caption(f"提示：情境 - {g['scenario']} | 翻譯：{g['translation']}")
-            
-            user_choice = st.radio("請選擇最符合語法的詞性：", st.session_state.grammar_options)
-            
-            if st.button("提交"):
-                if user_choice.strip() == g['word']:
-                    st.success(f"✅ 正確！這裡需要一個 {g['pos']}。")
-                    speak(g['word'])
-                else:
-                    st.error(f"❌ 不對喔，正確答案是：{g['word']} ({g['pos']})")
-                    if g['word'] not in st.session_state.wrong_words:
-                        st.session_state.wrong_words.append(g['word'])
 st.sidebar.write("---")
 st.sidebar.caption("育漢專屬 · 2027 外商 AE 衝刺工具")
