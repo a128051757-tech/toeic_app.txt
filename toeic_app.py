@@ -52,7 +52,7 @@ def load_data():
         if 'type' not in df.columns: df['type'] = 'vocab'
         if 'options_hint' not in df.columns: df['options_hint'] = ""
         df['type'] = df['type'].fillna('vocab')
-        df = df.drop_duplicates(subset=['word'], keep='first')
+        #df = df.drop_duplicates(subset=['word'], keep='first')
         return df
     except Exception as e:
         st.error(f"資料讀取錯誤: {e}")
