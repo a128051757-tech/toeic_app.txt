@@ -153,6 +153,40 @@ if df is not None:
             if st.button("🗑️ 清空紀錄"):
                 st.session_state.wrong_words = []
                 st.rerun()
+    # --- 模式 E：文法特訓 (New!) ---
+    if mode == "📑 文法特訓":
+        st.subheader("多益 Part 5 詞性變化專區")
+        
+        # 只過濾出文法題
+        grammar_df = df[df['type'] == 'grammar']
+        
+        if st.button("🆕 下一題") or st.session_state.grammar_word is None:
+            if not grammar_df.empty:
+                st.session_state.grammar_word = grammar_df.sample(1).iloc[0]
+                # 解析四個選項
+                opts = st.session_state.grammar_word['options_hint'].split(',')
+                random.shuffle(opts)
+                st.session_state.grammar_options = opts
+            else:
+                st.warning("目前 CSV 中沒有 type 為 grammar 的資料。")
 
+        if st.session_state.grammar_word is not None:
+            g = st.session_state.grammar_word
+            # 隱藏題目中的答案
+            hidden_sentence = re.sub(g['word'], "__________", g['example'], flags=re.IGNORECASE)
+            
+            st.info(f"### {hidden_sentence}")
+            st.caption(f"提示：情境 - {g['scenario']} | 翻譯：{g['translation']}")
+            
+            user_choice = st.radio("請選擇最符合語法的詞性：", st.session_state.grammar_options)
+            
+            if st.button("提交"):
+                if user_choice.strip() == g['word']:
+                    st.success(f"✅ 正確！這裡需要一個 {g['pos']}。")
+                    speak(g['word'])
+                else:
+                    st.error(f"❌ 不對喔，正確答案是：{g['word']} ({g['pos']})")
+                    if g['word'] not in st.session_state.wrong_words:
+                        st.session_state.wrong_words.append(g['word'])
 st.sidebar.write("---")
 st.sidebar.caption("育漢專屬 · 2027 外商 AE 衝刺工具")
