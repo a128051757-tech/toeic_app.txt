@@ -196,3 +196,443 @@ scenario,word,pos,translation,example,note
 保健,prescription,n.,處方,"The pharmacist prepared the medication based on the prescription.",動詞：prescribe
 保健,symptom,n.,症狀,"Please describe your symptoms to the doctor.",考點：感冒、發燒症狀
 保健,clinic,n.,診所,"There is a small medical clinic near the technology park.",對應：hospital
+製造業	lithography	n.	微影/光刻	The maintenance of lithography equipment requires specialized training.	AE 實務：職位核心關鍵字	
+製造業	wafer	n.	晶圓	The yield of the latest batch of wafers has exceeded our expectations.	製程工程師本命字	
+製造業	cleanroom	n.	無塵室	Strict adherence to cleanroom protocols is mandatory for all staff.	考點：工作規範	
+製造業	component	n.	零組件	The assembly line was halted due to a shortage of critical components.	同義字：part / element	
+製造業	fabrication	n.	製造/組裝	The fabrication of the new semiconductor chip takes several weeks.	簡稱：fab	
+製造業	optimization	n.	優化	Process optimization is essential for reducing manufacturing costs.	動詞：optimize	
+製造業	quality assurance	n.	品質保證	The QA department must approve every batch before shipment.	簡稱：QA	
+製造業	automation	n.	自動化	Implementing full automation has significantly reduced human errors.	形容詞：automated	
+製造業	capacity	n.	產能/容量	The plant is currently operating at 95% of its total capacity.	考點：產出上限	
+製造業	safety valve	n.	安全閥/緩衝	The safety valve was inspected to prevent potential pressure buildup.	考點：工安設備	
+技術面	integration	n.	整合	The software integration phase will begin after the hardware is ready.	動詞：integrate	
+技術面	interface	n.	界面	The user interface of the new tool is more intuitive than the old one.	常考：UI	
+技術面	troubleshooting	n.	故障排除	His expertise in troubleshooting helped minimize the system downtime.	動詞：troubleshoot	
+技術面	infrastructure	n.	基礎建設	The company is investing in cloud infrastructure to support AI development.	考點：硬體/網路基礎	
+技術面	compatibility	n.	相容性	We checked the compatibility of the new sensors with the existing system.	形容詞：compatible	
+技術面	validation	n.	驗證	Final validation of the process parameters is required by the customer.	動詞：validate	
+技術面	manual	n.	手冊	Please refer to the technical manual for the calibration procedures.	考點：操作指引	
+技術面	configuration	n.	配置/設定	The system configuration can be customized to meet specific needs.	動詞：configure	
+技術面	redundancy	n.	冗餘/備份	We implemented system redundancy to ensure continuous operation.	考點：備援機制	
+技術面	connectivity	n.	連通性	The laboratory is equipped with high-speed internet connectivity.	形容詞：connected	
+人事	remuneration	n.	酬勞	The remuneration package for the senior AE role is very competitive.	2027 談 Offer 必備單字	
+人事	headcount	n.	員工人數	The department received approval to increase the headcount by five.	考點：人力編制	
+人事	severance	n.	資遣費	The company offered a generous severance package to the outgoing staff.	關鍵情境：離職/裁員	
+人事	probation	n.	試用期	He successfully completed his three-month probation period.	外商入職常見階段	
+人事	promotion	n.	晉升	Hard work and innovation often lead to early career promotion.	動詞：promote	
+人事	resignation	n.	辭職	The general manager submitted his resignation yesterday.	動詞：resign	
+人事	recruit	v.	招募	We aim to recruit top talent from world-class universities.	名詞：recruitment	
+人事	benefit	n.	福利	Health insurance and gym memberships are standard employee benefits.	考點：薪資以外的福利	
+人事	qualification	n.	資格	Do you have the necessary qualifications for the AE position?	形容詞：qualified	
+人事	contract	n.	合約	Please review the terms of the employment contract carefully.	動詞：收縮/感染	
+金融/預算	dividend	n.	股利	The company issued a higher dividend thanks to the record revenue.	對接一億資產目標	
+金融/預算	portfolio	n.	投資組合	Diversifying your portfolio helps manage investment risks.	考點：資產配置	
+金融/預算	expenditure	n.	支出	Capital expenditure for the new fab was approved by the board.	對應：revenue (營收)	
+金融/預算	asset	n.	資產	Real estate and stocks are considered long-term assets.	對應：liability (負債)	
+金融/預算	audit	n.	審計/查帳	The annual financial audit is required by law.	動詞：進行審計	
+金融/預算	revenue	n.	營收/稅收	The annual revenue growth reached 20% this fiscal year.	考點：財務表現	
+金融/預算	liability	n.	負債	The company's liabilities are well within the manageable range.	對應：asset (資產)	
+金融/預算	interest rate	n.	利率	The central bank decided to keep the interest rate unchanged.	考點：總體經濟	
+金融/預算	mortgage	n.	房貸	He is looking for a bank with a lower mortgage interest rate.	對應：房地產情境	
+金融/預算	quarterly	adj./adv.	每季的	The quarterly report shows a positive trend in market share.	對應：Q1	 Q2
+一般商務	negotiate	v.	談判	Negotiating the price is a key part of the procurement process.	名詞：negotiation	
+一般商務	acquisition	n.	收購	The acquisition of the startup will enhance our R&D capabilities.	常考：M&A (併購)	
+一般商務	subsidiary	n.	子公司	ASML has several subsidiaries in the Asia-Pacific region.	考點：企業組織	
+一般商務	competitor	n.	競爭者	We need to analyze our competitors' strategies to stay ahead.	動詞：compete	
+一般商務	strategy	n.	策略	A clear strategy is essential for achieving long-term goals.	形容詞：strategic	
+一般商務	agreement	n.	協議	Both parties have signed a non-disclosure agreement (NDA).	反義字：disagreement	
+一般商務	client	n.	客戶	Building strong relationships with clients is the priority.	同義字：customer / account	
+一般商務	partnership	n.	合夥關係	The two firms formed a partnership to share technology.	考點：戰略結盟	
+一般商務	expansion	n.	擴張	The global expansion plans were discussed in the meeting.	動詞：expand	
+一般商務	representative	n.	代表	Our sales representative will visit your office next Tuesday.	動詞：represent	
+辦公室	memorandum	n.	備忘錄	The HR manager issued a memorandum regarding office etiquette.	簡寫：memo	
+辦公室	correspondence	n.	通信/信件	Please keep all business correspondence for future reference.	動詞：correspond	
+辦公室	clerical	adj.	文書的	The position involves various clerical duties and data entry.	名詞：clerk	
+辦公室	delegate	v.	委派/授權	Effective leaders know how to delegate tasks to subordinates.	名詞：代表/委員	
+辦公室	administrative	adj.	行政的	She handles the administrative support for the engineering team.	名詞：administrator	
+辦公室	confidential	adj.	機密的	All personnel files are strictly confidential.	名詞：confidentiality	
+辦公室	agenda	n.	議程	What is the first item on the agenda for today's meeting?	考點：會議流程	
+辦公室	minutes	n.	會議紀錄	The secretary is responsible for taking the meeting minutes.	注意：複數才代表紀錄	
+辦公室	stationary	n.	文具	We need to restock the office stationary, including pens.	注意：與 stationery 同音	
+辦公室	personnel	n.	全體人員	All personnel are required to attend the safety training.	同義字：staff / employees	
+採購	invoice	n.	發票/帳單	Please submit the invoice to the accounting department.	動詞：issue / settle	
+採購	vendor	n.	供應商	The vendor promised to deliver the chemicals by Friday.	同義字：supplier	
+採購	quotation	n.	報價單	Could you provide a formal quotation for the repair service?	簡寫：quote	
+採購	procurement	n.	採購	Procurement of high-end equipment requires board approval.	動詞：procure	
+採購	inventory	n.	庫存	We conduct a physical inventory check every six months.	常考：take inventory	
+採購	discount	n.	折扣	Bulk purchases are eligible for a significant discount.	動詞：打折	
+採購	receipt	n.	收據	You must keep your original receipt for reimbursement.	動詞：receive	
+採購	shipping	n.	運送/航運	Shipping delays are expected due to the port congestion.	動詞：ship	
+採購	wholesale	n.	批發	The company buys the materials at wholesale prices.	反義字：retail (零售)	
+採購	specification	n.	規格/說明	Make sure the order meets the required specifications.	動詞：specify	
+商務旅行	itinerary	n.	行程	The travel agency sent over the final itinerary for the trip.	考點：航班與酒店細節	
+商務旅行	boarding pass	n.	登機證	Have your boarding pass and ID ready for inspection.	機場場景核心單字	
+商務旅行	reimburse	v.	報帳/核銷	You will be reimbursed for all business-related expenses.	名詞：reimbursement	
+商務旅行	accommodation	n.	住宿	The company will cover the travel and accommodation costs.	動詞：accommodate	
+商務旅行	shuttle	n.	接駁車	The hotel offers a free shuttle service to the airport.	常考：shuttle bus	
+商務旅行	delayed	adj.	延誤的	The flight was delayed by three hours due to heavy snow.	動詞：delay	
+商務旅行	transfer	v./n.	轉機/調職	I have a two-hour layover before my transfer to Tokyo.	考點：轉機、轉換單位	
+商務旅行	departure	n.	出發/離開	Check the departure board for the gate number.	反義字：arrival (抵達)	
+商務旅行	destination	n.	目的地	Kyoto is a popular destination for international conferences.	考點：商務旅行地點	
+商務旅行	layover	n.	中途停留	He had a long layover in Singapore during his flight to London.	同義字：stopover	
+房地產	lease	n./v.	租約	The office lease will expire at the end of the year.	考點：租賃契約	
+房地產	landlord	n.	房東	The landlord agreed to renovate the lobby next month.	反義字：tenant (房客)	
+房地產	property	n.	房產/財產	The real estate agent showed us several properties in Linkou.	同義字：real estate	
+房地產	tenant	n.	房客	The tenant is responsible for paying the utility bills.	對應：rent (租金)	
+房地產	renovate	v.	翻新/裝修	The bank plans to renovate its main branch in Taipei.	名詞：renovation	
+房地產	occupancy	n.	佔用/居住	The building has reached an occupancy rate of 90%.	形容詞：occupied	
+房地產	utility	n.	公共設施/水電	Utility costs are included in the monthly rent.	考點：水、電、瓦斯費	
+房地產	premises	n.	房屋/經營場所	No unauthorized personnel are allowed on the premises.	考點：廠區、辦公園區	
+房地產	mortgage	n.	抵押貸款	She applied for a mortgage to purchase her first home.	動詞：抵押	
+房地產	agent	n.	代理人/經紀人	The real estate agent helped us negotiate a lower rent.	考點：房地產仲介	
+外食餐飲	reservation	n.	預約	I'd like to make a reservation for a table of four at 7 PM.	同義字：booking	
+外食餐飲	complimentary	adj.	免費贈送的	The restaurant offers complimentary drinks on your birthday.	同義字：free of charge	
+外食餐飲	beverage	n.	飲料	A wide selection of cold beverages is available at the bar.	考點：各類飲品	
+外食餐飲	appetizer	n.	開胃菜	Would you like to order some appetizers while you wait?	同義字：starter	
+外食餐飲	menu	n.	菜單	The chef is designing a new menu for the summer season.	注意：special menu	
+外食餐飲	cuisine	n.	料理/菜餚	The hotel features various types of international cuisine.	常考：Italian / French cuisine	
+外食餐飲	tip	n./v.	小費	It is customary to leave a tip for good service in many countries.	同義字：gratuity	
+外食餐飲	banquet	n.	宴會	The company hosted a banquet to celebrate the anniversary.	考點：尾牙、正式宴會	
+外食餐飲	ingredient	n.	成分/原料	The chef uses only fresh and local ingredients for the dish.	考點：食材說明	
+外食餐飲	utensil	n.	用具/器皿	Make sure the kitchen utensils are properly sterilized.	考點：餐具、廚具	
+娛樂招待	exhibition	n.	展覽	The tech exhibition will showcase the latest innovations.	動詞：exhibit	
+娛樂招待	performance	n.	表演/表現	The evening performance of the opera was magnificent.	動詞：perform	
+娛樂招待	venue	n.	場地	The convention center is a popular venue for trade shows.	考點：活動場所	
+娛樂招待	sponsorship	n.	贊助	The local bank provided sponsorship for the charity concert.	動詞：sponsor	
+娛樂招待	ticket	n.	票	You can purchase tickets for the exhibition online.	常考：ticket booth	
+娛樂招待	gallery	n.	畫廊/展覽館	The art gallery is open to the public during the weekend.	考點：參觀場所	
+娛樂招待	festival	n.	節慶	Thousands of people attended the annual jazz festival.	形容詞：festive	
+娛樂招待	orchestra	n.	管弦樂團	The symphony orchestra will perform at the grand opening.	考點：藝文表演	
+娛樂招待	broadcast	n./v.	廣播/播放	The game will be broadcast live across the country.	常考：live broadcast	
+娛樂招待	admission	n.	入場/承認	The admission fee for the museum is ten dollars.	考點：門票費用	
+保健	appointment	n.	預約	I need to reschedule my dental appointment for next week.	考點：掛號、預約醫生	
+保健	prescription	n.	處方	You can pick up your prescription at the hospital pharmacy.	動詞：prescribe	
+保健	symptom	n.	症狀	Please inform the nurse if you experience any symptoms.	考點：病徵描述	
+保健	clinic	n.	診所	There is a small medical clinic near the technology park.	對應：hospital (醫院)	
+保健	pharmacy	n.	藥局	The pharmacy is located on the ground floor of the building.	同義字：drugstore	
+保健	insurance	n.	保險	Most employees are covered by comprehensive health insurance.	動詞：insure	
+保健	physician	n.	醫師/內科醫生	The physician advised him to take a few days of rest.	同義字：doctor	
+保健	checkup	n.	檢查	An annual medical checkup is recommended for all staff.	考點：健康檢查	
+保健	treatment	n.	治療	The new treatment for the infection is very effective.	動詞：treat	
+保健	diagnose	v.	診斷	The doctor was able to diagnose the illness quickly.	名詞：diagnosis	
+企業發展	restructure	v.	改組/重組	The company plans to restructure its European operations.	考點：組織異動	
+企業發展	merger	n.	合併	The merger of the two companies created a new market leader.	常考：M&A	
+企業發展	expansion	n.	擴張	Global expansion is the primary goal for the next five years.	動詞：expand	
+企業發展	startup	n.	新創公司	Many successful tech giants started as small startups.	考點：創業情境	
+企業發展	strategy	n.	策略	We need a new business strategy to adapt to the market.	形容詞：strategic	
+企業發展	joint venture	n.	合資企業	The two companies formed a joint venture to build the plant.	考點：企業結盟	
+企業發展	shareholder	n.	股東	The board of directors is accountable to the shareholders.	同義字：stockholder	
+企業發展	venture capital	n.	風險投資	The startup received a large amount of venture capital.	考點：融資、創業資金	
+企業發展	diversification	n.	多元化	Product diversification can help reduce business risks.	動詞：diversify	
+企業發展	innovation	n.	創新	Innovation is the key to survival in the tech industry.	形容詞：innovative	
+製造業	prototype	n.	原型/雛型	The engineers are testing the prototype of the new machine.	考點：研發階段	
+製造業	output	n.	產出	The total output has increased by 10% since last month.	對應：input	
+製造業	raw material	n.	原物料	Rising costs of raw materials have affected our profit.	考點：成本控制	
+製造業	assembly line	n.	組裝線	The workers are trained to operate on the automated assembly line.	考點：工廠流程	
+製造業	supervisor	n.	監督者	The floor supervisor is checking the safety equipment.	動詞：supervise	
+製造業	inventory	n.	庫存	We need to conduct a monthly inventory check.	同義字：stock	
+製造業	facility	n.	設施/場所	The company is building a new manufacturing facility in Linkou.	複數：facilities	
+製造業	inspection	n.	檢查	A thorough inspection is required to ensure quality.	動詞：inspect	
+製造業	safety	n.	安全	Safety protocols must be followed at all times in the plant.	形容詞：safe	
+製造業	maintenance	n.	維修/保養	Regular maintenance can prevent costly equipment breakdowns.	動詞：maintain	
+技術面	upgrade	n./v.	升級	A system upgrade is scheduled for this weekend.	考點：軟硬體更新	
+技術面	compatible	adj.	相容的	The new software is compatible with all previous versions.	名詞：compatibility	
+技術面	feature	n.	特色/功能	One major feature of this tool is its energy efficiency.	動詞：以...為特色	
+技術面	manual	n.	手冊	Please read the user manual carefully before operation.	考點：使用說明	
+技術面	configuration	n.	配置/設定	The IT team is adjusting the server configuration.	動詞：configure	
+技術面	precision	n.	精確/精密度	The high precision of the laser is essential for the process.	形容詞：precise	
+技術面	parameter	n.	參數	The technician is monitoring the process parameters.	考點：製程參數	
+技術面	implementation	n.	實施/執行	The implementation of the new policy took several months.	動詞：implement	
+技術面	infrastructure	n.	基礎設施	The company is investing in digital infrastructure.	考點：網路/硬體架構	
+技術面	installation	n.	安裝	The installation of the new equipment will take two days.	動詞：install	
+人事	vacancy	n.	職缺	There is a vacancy for an accountant in the finance office.	同義字：opening	
+人事	candidate	n.	候選人	The interviewers were impressed by the candidate's skills.	考點：招聘過程	
+人事	allowance	n.	津貼	The company provides a monthly travel allowance.	考點：薪資加給	
+人事	pension	n.	退休金	Employees contribute a portion of their salary to the pension fund.	考點：福利制度	
+人事	overtime	n.	加班	He had to work overtime to meet the production deadline.	注意：pay overtime	
+人事	bonus	n.	紅利/獎金	All staff received a performance bonus at the end of the year.	考點：績效獎勵	
+人事	salary	n.	薪水	The monthly salary is paid on the fifth of every month.	同義字：wage (通常指時薪/週薪)	
+人事	promotion	n.	晉升	Her promotion to director was announced this morning.	動詞：promote	
+人事	training	n.	訓練	New employees must undergo two weeks of intensive training.	動詞：train	
+人事	evaluation	n.	評估	Performance evaluations are conducted every six months.	動詞：evaluate	
+金融/預算	budget	n.	預算	We need to stick to the budget for the upcoming project.	形容詞：budgetary	
+金融/預算	revenue	n.	營收	The annual revenue has grown steadily over the last decade.	對應：expenditure	
+金融/預算	transaction	n.	交易	The online transaction was completed within seconds.	動詞：transact	
+金融/預算	interest	n.	利息/利益	The bank offers a high interest rate on savings accounts.	注意：compound interest	
+金融/預算	audit	n.	審計	An external audit was conducted to ensure compliance.	動詞：進行審計	
+金融/預算	portfolio	n.	投資組合	His investment portfolio includes stocks, bonds, and gold.	對應：asset allocation	
+金融/預算	mortgage	n.	房貸	They applied for a 30-year mortgage to buy the house.	對應：房地產情境	
+金融/預算	expense	n.	花費	Business expenses can be claimed back from the company.	動詞：expend	
+金融/預算	profit	n.	利潤	The net profit increased by 15% compared to last year.	反義字：loss (虧損)	
+金融/預算	accounting	n.	會計	The accounting department is preparing the year-end report.	人：accountant	
+一般商務	negotiation	n.	談判	The price negotiation took several hours of discussion.	動詞：negotiate	
+一般商務	client	n.	客戶	We are committed to providing the best service to our clients.	同義字：customer	
+一般商務	partnership	n.	合夥/夥伴關係	The partnership will allow us to enter the European market.	考點：企業結盟	
+一般商務	strategy	n.	策略	A clear long-term strategy is essential for success.	形容詞：strategic	
+一般商務	acquisition	n.	收購	The acquisition of the rival firm was completed last month.	常考：M&A	
+一般商務	contract	n.	合約	The legal team is reviewing the terms of the contract.	動詞：收縮	
+一般商務	representative	n.	代表	Our sales representative will contact you shortly.	動詞：represent	
+一般商務	agreement	n.	協議	An agreement was reached after weeks of discussion.	動詞：agree	
+一般商務	signature	n.	簽名	A valid signature is required on the final page.	動詞：sign	
+一般商務	branch	n.	分部	The bank is opening a new branch in the technology park.	對應：headquarters	
+辦公室	administrative	adj.	行政的	She is responsible for the administrative tasks in the office.	名詞：administrator	
+辦公室	clerical	adj.	文書的	The entry-level position involves basic clerical duties.	名詞：clerk	
+辦公室	distribution	n.	分發	The distribution of the report was delayed by a week.	動詞：distribute	
+辦公室	agenda	n.	議程	The first item on the agenda is the budget review.	考點：會議流程	
+辦公室	minutes	n.	會議紀錄	The secretary is taking the minutes of the board meeting.	注意：複數才代表紀錄	
+辦公室	correspondence	n.	通信/信件	Keep a copy of all official business correspondence.	動詞：correspond	
+辦公室	memo	n.	備忘錄	The HR department sent out a memo about the holiday.	全稱：memorandum	
+辦公室	confidential	adj.	機密的	All personnel files are strictly confidential.	名詞：confidentiality	
+辦公室	delegate	v.	授權/委派	Managers must learn to delegate tasks effectively.	名詞：代表	
+辦公室	filing	n.	存檔	The filing cabinet is located in the corner of the office.	動詞：file	
+採購	invoice	n.	發票	The invoice shows the total amount due for the order.	動詞：issue	
+採購	vendor	n.	供應商	We are sourcing components from multiple global vendors.	同義字：supplier	
+採購	quotation	n.	報價單	Please send us a formal quotation for the repair.	簡寫：quote	
+採購	procurement	n.	採購	The procurement process for the tools is very rigorous.	動詞：procure	
+採購	inventory	n.	庫存	We need to perform a monthly inventory check.	常考：stock	
+採購	discount	n.	折扣	Bulk orders are eligible for a significant discount.	動詞：打折	
+採購	receipt	n.	收據	Make sure to keep your receipt for any reimbursements.	動詞：receive	
+採購	shipping	n.	運送	The shipping cost is included in the final price.	動詞：ship	
+採購	wholesale	n.	批發	We buy the raw materials at wholesale prices.	反義字：retail	
+採購	specification	n.	規格	Check the order specifications before finalizing the purchase.	動詞：specify	
+商務旅行	itinerary	n.	行程	The agency sent over the detailed travel itinerary.	考點：航班與酒店細節	
+商務旅行	boarding pass	n.	登機證	Please present your boarding pass at the gate.	機場場景核心單字	
+商務旅行	reimburse	v.	報帳/核銷	You will be reimbursed for all business expenses.	名詞：reimbursement	
+商務旅行	accommodation	n.	住宿	The company will pay for your accommodation in London.	動詞：accommodate	
+商務旅行	shuttle	n.	接駁車	The hotel offers a free shuttle bus to the airport.	考點：機場接送	
+商務旅行	delayed	adj.	延誤的	The flight was delayed due to technical issues.	動詞：delay	
+商務旅行	transfer	v./n.	轉機/調職	I have a two-hour layover during my transfer.	考點：轉機、轉換單位	
+商務旅行	departure	n.	出發	The departure time is scheduled for 10 AM.	反義字：arrival	
+商務旅行	destination	n.	目的地	Kyoto is a popular destination for conferences.	考點：旅遊目的地	
+商務旅行	layover	n.	中途停留	He had a five-hour layover in Singapore.	同義字：stopover	
+房地產	lease	n./v.	租約	The office lease is set to expire in December.	考點：租賃契約	
+房地產	landlord	n.	房東	The landlord will renovate the building next year.	反義字：tenant	
+房地產	property	n.	房產/財產	The real estate agent showed us several properties.	同義字：real estate	
+房地產	tenant	n.	房客	The tenant signed a two-year lease for the flat.	對應：rent	
+房地產	renovate	v.	翻新/裝修	The company plans to renovate its main branch.	名詞：renovation	
+房地產	occupancy	n.	佔用/居住	The occupancy rate of the building is 95%.	形容詞：occupied	
+房地產	utility	n.	公共設施/水電	Utilities like water and electricity are included in the rent.	考點：雜費	
+房地產	premises	n.	房屋/經營場所	No smoking is allowed on the premises.	考點：廠區場所	
+房地產	mortgage	n.	抵押貸款	They are paying off a 20-year mortgage.	動詞：抵押	
+房地產	agent	n.	經紀人	The real estate agent helped us find an office.	考點：房地產仲介	
+製造業	outsource	v.	外包	The company decided to outsource the component manufacturing.	名詞：outsourcing	
+製造業	streamline	v.	簡化/效率化	We need to streamline the assembly process to reduce costs.	常用於優化製程	
+製造業	refurbish	v.	翻新/整修	The refurbished tools are as good as new equipment.	考點：二手設備翻新	
+製造業	standardize	v.	標準化	The goal is to standardize the operating procedures across fabs.	名詞：standardization	
+製造業	shortage	n.	短缺	A global chip shortage has affected the entire industry.	形容詞：short	
+製造業	compliance	n.	遵守/合規	All manufacturing processes must be in compliance with safety laws.	動詞：comply with	
+製造業	supervision	n.	監督/管理	Close supervision is required during the chemical mixing stage.	人：supervisor	
+製造業	hazardous	adj.	危險的/有害的	Please wear protective gear when handling hazardous substances.	同義字：dangerous	
+製造業	substance	n.	物質	The cleanroom must be free of any airborne substances.	考點：無塵室污染物	
+製造業	calibration	n.	校準	The engineer is performing the annual calibration of the sensors.	動詞：calibrate	
+技術面	integrated	adj.	整合的	The new system features an integrated data analysis tool.	動詞：integrate	
+技術面	innovative	adj.	創新的	Our company is known for its innovative solutions in lithography.	名詞：innovation	
+技術面	maintenance	n.	維修/保養	The maintenance manual provides step-by-step instructions.	動詞：maintain	
+技術面	robust	adj.	強健的/穩定的	The system architecture is robust enough to handle high loads.	常用於軟硬體描述	
+技術面	versatile	adj.	多功能的	This tool is versatile enough to be used in various stages.	考點：多用途設備	
+技術面	specification	n.	規格/說明	Check the technical specifications before purchasing the parts.	簡寫：specs	
+技術面	compatible	adj.	相容的	Ensure the new sensors are compatible with the old interface.	名詞：compatibility	
+技術面	upgrade	v./n.	升級	A hardware upgrade will significantly improve the processing speed.	考點：版本更新	
+技術面	interface	n.	界面	The user interface is designed to be user-friendly.	常用：UI	
+技術面	configuration	n.	配置/設定	The server configuration needs to be updated manually.	動詞：configure	
+人事	headcount	n.	員工人數	The HR department is planning to increase the headcount.	考點：人力編制	
+人事	severance	n.	資遣費	The laid-off workers received a fair severance package.	關鍵詞：離職補償	
+人事	relocation	n.	搬遷/外派	The company offers a relocation allowance for international staff.	動詞：relocate	
+人事	pension	n.	退休金	The pension fund is managed by a third-party firm.	考點：員工福利	
+人事	remuneration	n.	報酬/薪資	The remuneration includes a base salary and annual bonuses.	高階多益字	
+人事	candidate	n.	候選人	The search committee is interviewing five final candidates.	考點：招聘過程	
+人事	vacancy	n.	空缺/職缺	We have a vacancy for a senior process engineer.	同義字：opening	
+人事	recruit	v./n.	招募/新成員	The company aims to recruit experienced professionals.	名詞：recruitment	
+人事	probation	n.	試用期	After the probation, he was promoted to a permanent role.	外商常見階段	
+人事	appraisal	n.	考核/評價	The annual performance appraisal determines the salary increase.	考點：KPI 考核	
+金融/預算	dividend	n.	股利	The company pays dividends to its shareholders every quarter.	對接一億資產目標	
+金融/預算	revenue	n.	營收/收入	The annual revenue increased by twenty percent this year.	對應：expenditure	
+金融/預算	expenditure	n.	支出/費用	We need to monitor our capital expenditure more closely.	動詞：expend	
+金融/預算	asset	n.	資產	Real estate is a key asset in his investment portfolio.	對應：liability (負債)	
+金融/預算	liability	n.	負債/責任	The firm's liabilities are currently higher than its assets.	對應：asset	
+金融/預算	audit	n./v.	審計/查帳	The company undergoes an independent audit every year.	人：auditor	
+金融/預算	portfolio	n.	投資組合	Diversifying your portfolio can help manage market risks.	考點：資產配置	
+金融/預算	interest rate	n.	利率	The central bank decided to lower the interest rate.	考點：總體經濟	
+金融/預算	mortgage	n.	房貸	He is looking for a mortgage with a lower fixed rate.	對應：房地產情境	
+金融/預算	reimburse	v.	核銷/退還	The firm will reimburse you for all travel expenses.	名詞：reimbursement	
+一般商務	negotiation	n.	談判	The price negotiation lasted for several hours.	動詞：negotiate	
+一般商務	acquisition	n.	收購	The acquisition of the startup was finalized last week.	常考：M&A	
+一般商務	subsidiary	n.	子公司	ASML has multiple subsidiaries operating in Taiwan.	考點：企業結構	
+一般商務	competitor	n.	競爭者	We need to analyze our competitors' market strategies.	動詞：compete	
+一般商務	strategy	n.	策略	The CEO presented a new strategy for global expansion.	形容詞：strategic	
+一般商務	agreement	n.	協議	Both parties have reached a tentative agreement.	動詞：agree	
+一般商務	contract	n.	合約	The legal team is reviewing the terms of the contract.	動詞：收縮/感染	
+一般商務	representative	n.	代表	Our sales representative will visit your office next week.	動詞：represent	
+一般商務	branch	n.	分部/分支	The bank is opening a new branch in the technology park.	對應：headquarters	
+一般商務	partnership	n.	夥伴關係	The two firms formed a partnership to share technology.	考點：企業結盟	
+辦公室	administrative	adj.	行政的	She handles all administrative duties for the department.	名詞：administrator	
+辦公室	clerical	adj.	文書的	The position involves basic clerical tasks and data entry.	名詞：clerk	
+辦公室	memorandum	n.	備忘錄	The HR manager issued a memorandum about office hours.	簡稱：memo	
+辦公室	correspondence	n.	通信/信件	Keep a copy of all business correspondence with the client.	動詞：correspond	
+辦公室	confidential	adj.	機密的	All personnel files are strictly confidential.	名詞：confidentiality	
+辦公室	delegate	v.	委派/授權	Manager should delegate tasks to improve team efficiency.	名詞：代表/委員	
+辦公室	agenda	n.	議程	What is the first item on the meeting agenda today?	考點：會議流程	
+辦公室	minutes	n.	會議紀錄	The secretary is responsible for taking the meeting minutes.	注意：複數才代表紀錄	
+辦公室	stationary	n.	文具	We need to restock the office stationary, including pens.	注意：與 stationery 同音	
+辦公室	personnel	n.	全體人員	All personnel are required to attend the safety training.	同義字：staff / employees	
+採購	invoice	n.	發票/帳單	Please submit the invoice to the accounting department.	動詞：issue / settle	
+採購	vendor	n.	供應商	The vendor promised to deliver the components by Friday.	同義字：supplier	
+採購	quotation	n.	報價單	Could you provide a formal quotation for the service?	簡寫：quote	
+採購	procurement	n.	採購	Procurement of high-end equipment requires board approval.	動詞：procure	
+採購	inventory	n.	庫存	We conduct a physical inventory check every six months.	常考：take inventory	
+採購	discount	n.	折扣	Bulk purchases are eligible for a significant discount.	動詞：打折	
+採購	receipt	n.	收據	You must keep your original receipt for reimbursement.	動詞：receive	
+採購	shipping	n.	運送/航運	Shipping delays are expected due to the port congestion.	動詞：ship	
+採購	wholesale	n.	批發	The company buys the materials at wholesale prices.	反義字：retail (零售)	
+採購	specification	n.	規格/說明	Make sure the order meets the required specifications.	動詞：specify	
+商務旅行	itinerary	n.	行程	The travel agency sent over the final itinerary for the trip.	考點：航班與酒店細節	
+商務旅行	boarding pass	n.	登機證	Have your boarding pass and ID ready for inspection.	機場場景核心單字	
+商務旅行	reimburse	v.	報帳/核銷	You will be reimbursed for all business-related expenses.	名詞：reimbursement	
+商務旅行	accommodation	n.	住宿	The company will cover the travel and accommodation costs.	動詞：accommodate	
+商務旅行	shuttle	n.	接駁車	The hotel offers a free shuttle service to the airport.	常考：機場接送	
+商務旅行	delayed	adj.	延誤的	The flight was delayed by three hours due to heavy snow.	動詞：delay	
+商務旅行	transfer	v./n.	轉機/調職	I have a two-hour layover before my transfer to Tokyo.	考點：轉機、轉換單位	
+商務旅行	departure	n.	出發/離開	Check the departure board for the gate number.	反義字：arrival (抵達)	
+商務旅行	destination	n.	目的地	Kyoto is a popular destination for international conferences.	考點：目的地	
+商務旅行	layover	n.	中途停留	He had a long layover in Singapore during his flight.	同義字：stopover	
+外食餐飲	reservation	n.	預約	I'd like to make a reservation for a table of four.	同義字：booking	
+外食餐飲	complimentary	adj.	免費的	The hotel offers complimentary breakfast for all guests.	同義字：free of charge	
+外食餐飲	beverage	n.	飲料	A wide selection of hot and cold beverages is available.	考點：飲品類	
+外食餐飲	appetizer	n.	開胃菜	We ordered some appetizers while waiting for the main course.	同義字：starter	
+外食餐飲	menu	n.	菜單	The chef is designing a new menu for the summer season.	注意：special menu	
+外食餐飲	cuisine	n.	料理	The hotel features various types of international cuisine.	常考：美食類型	
+外食餐飲	tip	n./v.	小費	It is customary to leave a tip for good service.	同義字：gratuity	
+外食餐飲	banquet	n.	宴會	The company hosted a banquet to celebrate the anniversary.	考點：正式晚宴	
+外食餐飲	ingredient	n.	成分/原料	The chef uses only fresh and local ingredients for the dish.	考點：食材說明	
+外食餐飲	utensil	n.	用具/器皿	Make sure the kitchen utensils are properly sterilized.	考點：餐飲用具	
+娛樂招待	exhibition	n.	展覽	The tech exhibition will showcase the latest innovations.	動詞：exhibit	
+娛樂招待	performance	n.	表演/表現	The evening performance of the opera was magnificent.	動詞：perform	
+娛樂招待	venue	n.	場地	The convention center is a popular venue for trade shows.	考點：活動場所	
+娛樂招待	sponsorship	n.	贊助	The local bank provided sponsorship for the concert.	動詞：sponsor	
+娛樂招待	ticket	n.	票	You can purchase tickets for the exhibition online.	常考：ticket booth	
+娛樂招待	gallery	n.	畫廊/展覽館	The art gallery is open to the public during the weekend.	考點：參觀場所	
+娛樂招待	festival	n.	節慶	Thousands of people attended the annual jazz festival.	形容詞：festive	
+娛樂招待	orchestra	n.	管弦樂團	The symphony orchestra will perform at the grand opening.	考點：藝文表演	
+娛樂招待	broadcast	n./v.	廣播/播放	The game will be broadcast live across the country.	常考：live broadcast	
+娛樂招待	admission	n.	入場/承認	The admission fee for the museum is ten dollars.	考點：門票費用	
+保健	appointment	n.	預約	I need to reschedule my dental appointment for next week.	考點：掛號、預約醫生	
+保健	prescription	n.	處方	You can pick up your prescription at the hospital pharmacy.	動詞：prescribe	
+保健	symptom	n.	症狀	Please inform the nurse if you experience any symptoms.	考點：病徵描述	
+保健	clinic	n.	診所	There is a small medical clinic near the technology park.	對應：hospital (醫院)	
+保健	pharmacy	n.	藥局	The pharmacy is located on the ground floor of the building.	同義字：drugstore	
+保健	insurance	n.	保險	Most employees are covered by comprehensive health insurance.	動詞：insure	
+保健	physician	n.	醫師/內科醫生	The physician advised him to take a few days of rest.	同義字：doctor	
+保健	checkup	n.	檢查	An annual medical checkup is recommended for all staff.	考點：健康檢查	
+保健	treatment	n.	治療	The new treatment for the infection is very effective.	動詞：treat	
+保健	diagnose	v.	診斷	The doctor was able to diagnose the illness quickly.	名詞：diagnosis	
+房地產	lease	n./v.	租約	The office lease will expire at the end of the year.	考點：租賃契約	
+房地產	landlord	n.	房東	The landlord agreed to renovate the lobby next month.	反義字：tenant (房客)	
+房地產	property	n.	房產/財產	The real estate agent showed us several properties in Linkou.	同義字：real estate	
+房地產	tenant	n.	房客	The tenant is responsible for paying the utility bills.	對應：rent (租金)	
+房地產	renovate	v.	翻新/裝修	The bank plans to renovate its main branch in Taipei.	名詞：renovation	
+房地產	occupancy	n.	佔用/居住	The building has reached an occupancy rate of 90%.	形容詞：occupied	
+房地產	utility	n.	公共設施/水電	Utility costs are included in the monthly rent.	考點：水、電、瓦斯費	
+房地產	premises	n.	房屋/經營場所	No unauthorized personnel are allowed on the premises.	考點：廠區場所	
+房地產	mortgage	n.	抵押貸款	She applied for a mortgage to purchase her first home.	動詞：抵押	
+房地產	agent	n.	代理人/經紀人	The real estate agent helped us negotiate a lower rent.	考點：房地產仲介	
+企業發展	restructure	v.	改組/重組	The company plans to restructure its European operations.	考點：組織異動	
+企業發展	merger	n.	合併	The merger of the two companies created a new market leader.	常考：M&A	
+企業發展	expansion	n.	擴張	Global expansion is the primary goal for the next five years.	動詞：expand	
+企業發展	startup	n.	新創公司	Many successful tech giants started as small startups.	考點：創業情境	
+企業發展	strategy	n.	策略	We need a new business strategy to adapt to the market.	形容詞：strategic	
+企業發展	joint venture	n.	合資企業	The two companies formed a joint venture to build the plant.	考點：企業結盟	
+企業發展	shareholder	n.	股東	The board of directors is accountable to the shareholders.	同義字：stockholder	
+企業發展	venture capital	n.	風險投資	The startup received a large amount of venture capital.	考點：融資、創業資金	
+企業發展	diversification	n.	多元化	Product diversification can help reduce business risks.	動詞：diversify	
+企業發展	innovation	n.	創新	Innovation is the key to survival in the tech industry.	形容詞：innovative	
+製造業	prototype	n.	原型/雛型	The engineers are testing the prototype of the new machine.	考點：研發階段	
+製造業	output	n.	產出	The total output has increased by 10% since last month.	對應：input	
+製造業	raw material	n.	原物料	Rising costs of raw materials have affected our profit.	考點：成本控制	
+製造業	assembly line	n.	組裝線	The workers are trained on the automated assembly line.	考點：工廠流程	
+製造業	supervisor	n.	監督者	The floor supervisor is checking the safety equipment.	動詞：supervise	
+製造業	inventory	n.	庫存	We need to conduct a monthly inventory check.	同義字：stock	
+製造業	facility	n.	設施/場所	The company is building a new manufacturing facility in Linkou.	複數：facilities	
+製造業	inspection	n.	檢查	A thorough inspection is required to ensure quality.	動詞：inspect	
+製造業	safety	n.	安全	Safety protocols must be followed at all times in the plant.	形容詞：safe	
+製造業	maintenance	n.	維修/保養	Regular maintenance can prevent costly equipment breakdowns.	動詞：maintain	
+技術面	upgrade	n./v.	升級	A system upgrade is scheduled for this weekend.	考點：軟硬體更新	
+技術面	compatible	adj.	相容的	The new software is compatible with all previous versions.	名詞：compatibility	
+技術面	feature	n.	特色/功能	One major feature of this tool is its energy efficiency.	動詞：以...為特色	
+技術面	manual	n.	手冊	Please read the user manual carefully before operation.	考點：使用說明	
+技術面	configuration	n.	配置/設定	The IT team is adjusting the server configuration.	動詞：configure	
+技術面	precision	n.	精確/精密度	The high precision of the laser is essential for the process.	形容詞：precise	
+技術面	parameter	n.	參數	The technician is monitoring the process parameters.	考點：製程參數	
+技術面	implementation	n.	實施/執行	The implementation of the new policy took several months.	動詞：implement	
+技術面	infrastructure	n.	基礎設施	The company is investing in digital infrastructure.	考點：網路/硬體架構	
+技術面	installation	n.	安裝	The installation of the new equipment will take two days.	動詞：install	
+人事	vacancy	n.	職缺	There is a vacancy for an accountant in the finance office.	同義字：opening	
+人事	candidate	n.	候選人	The interviewers were impressed by the candidate's skills.	考點：招聘過程	
+人事	allowance	n.	津貼	The company provides a monthly travel allowance.	考點：薪資加給	
+人事	pension	n.	退休金	Employees contribute a portion of their salary to the pension fund.	考點：福利制度	
+人事	overtime	n.	加班	He had to work overtime to meet the production deadline.	注意：pay overtime	
+人事	bonus	n.	紅利/獎金	All staff received a performance bonus at the end of the year.	考點：績效獎勵	
+人事	salary	n.	薪水	The monthly salary is paid on the fifth of every month.	同義字：wage (通常指時薪/週薪)	
+人事	promotion	n.	晉升	Her promotion to director was announced this morning.	動詞：promote	
+人事	training	n.	訓練	New employees must undergo two weeks of intensive training.	動詞：train	
+人事	evaluation	n.	評估	Performance evaluations are conducted every six months.	動詞：evaluate	
+金融/預算	budget	n.	預算	We need to stick to the budget for the upcoming project.	形容詞：budgetary	
+金融/預算	revenue	n.	營收	The annual revenue has grown steadily over the last decade.	對應：expenditure	
+金融/預算	transaction	n.	交易	The online transaction was completed within seconds.	動詞：transact	
+金融/預算	interest	n.	利息/利益	The bank offers a high interest rate on savings accounts.	注意：compound interest	
+金融/預算	audit	n.	審計	An external audit was conducted to ensure compliance.	動詞：進行審計	
+金融/預算	portfolio	n.	投資組合	His investment portfolio includes stocks, bonds, and gold.	對應：asset allocation	
+金融/預算	mortgage	n.	房貸	They applied for a 30-year mortgage to buy the house.	對應：房地產情境	
+金融/預算	expense	n.	花費	Business expenses can be claimed back from the company.	動詞：expend	
+金融/預算	profit	n.	利潤	The net profit increased by 15% compared to last year.	反義字：loss (虧損)	
+金融/預算	accounting	n.	會計	The accounting department is preparing the year-end report.	人：accountant	
+一般商務	negotiation	n.	談判	The price negotiation took several hours of discussion.	動詞：negotiate	
+一般商務	client	n.	客戶	We are committed to providing the best service to our clients.	同義字：customer	
+一般商務	partnership	n.	合夥/夥伴關係	The partnership will allow us to enter the European market.	考點：企業結盟	
+一般商務	strategy	n.	策略	A clear long-term strategy is essential for success.	形容詞：strategic	
+一般商務	acquisition	n.	收購	The acquisition of the rival firm was completed last month.	常考：M&A	
+一般商務	contract	n.	合約	The legal team is reviewing the terms of the contract.	動詞：收縮	
+一般商務	representative	n.	代表	Our sales representative will contact you shortly.	動詞：represent	
+一般商務	agreement	n.	協議	An agreement was reached after weeks of discussion.	動詞：agree	
+一般商務	signature	n.	簽名	A valid signature is required on the final page.	動詞：sign	
+一般商務	branch	n.	分部	The bank is opening a new branch in the technology park.	對應：headquarters	
+辦公室	administrative	adj.	行政的	She is responsible for the administrative tasks in the office.	名詞：administrator	
+辦公室	clerical	adj.	文書的	The entry-level position involves basic clerical duties.	名詞：clerk	
+辦公室	distribution	n.	分發	The distribution of the report was delayed by a week.	動詞：distribute	
+辦公室	agenda	n.	議程	The first item on the agenda is the budget review.	考點：會議流程	
+辦公室	minutes	n.	會議紀錄	The secretary is taking the minutes of the board meeting.	注意：複數才代表紀錄	
+辦公室	correspondence	n.	通信/信件	Keep a copy of all official business correspondence.	動詞：correspond	
+辦公室	memo	n.	備忘錄	The HR department sent out a memo about the holiday.	全稱：memorandum	
+辦公室	confidential	adj.	機密的	All personnel files are strictly confidential.	名詞：confidentiality	
+辦公室	delegate	v.	授權/委派	Managers must learn to delegate tasks effectively.	名詞：代表	
+辦公室	filing	n.	存檔	The filing cabinet is located in the corner of the office.	動詞：file	
+採購	invoice	n.	發票	The invoice shows the total amount due for the order.	動詞：issue	
+採購	vendor	n.	供應商	We are sourcing components from multiple global vendors.	同義字：supplier	
+採購	quotation	n.	報價單	Please send us a formal quotation for the repair.	簡寫：quote	
+採購	procurement	n.	採購	The procurement process for the tools is very rigorous.	動詞：procure	
+採購	inventory	n.	庫存	We need to perform a monthly inventory check.	常考：stock	
+採購	discount	n.	折扣	Bulk orders are eligible for a significant discount.	動詞：打折	
+採購	receipt	n.	收據	Make sure to keep your receipt for any reimbursements.	動詞：receive	
+採購	shipping	n.	運送	The shipping cost is included in the final price.	動詞：ship	
+採購	wholesale	n.	批發	We buy the raw materials at wholesale prices.	反義字：retail	
+採購	specification	n.	規格	Check the order specifications before finalizing the purchase.	動詞：specify	
+商務旅行	itinerary	n.	行程	The agency sent over the detailed travel itinerary.	考點：航班與酒店細節	
+商務旅行	boarding pass	n.	登機證	Please present your boarding pass at the gate.	機場場景核心單字	
+商務旅行	reimburse	v.	報帳/核銷	You will be reimbursed for all business expenses.	名詞：reimbursement	
+商務旅行	accommodation	n.	住宿	The company will pay for your accommodation in London.	動詞：accommodate	
+商務旅行	shuttle	n.	接駁車	The hotel offers a free shuttle bus to the airport.	考點：機場接送	
+商務旅行	delayed	adj.	延誤的	The flight was delayed due to technical issues.	動詞：delay	
+商務旅行	transfer	v./n.	轉機/調職	I have a two-hour layover during my transfer.	考點：轉機、轉換單位	
+商務旅行	departure	n.	出發	The departure time is scheduled for 10 AM.	反義字：arrival	
+商務旅行	destination	n.	目的地	Kyoto is a popular destination for conferences.	考點：旅遊目的地	
+商務旅行	layover	n.	中途停留	He had a five-hour layover in Singapore.	同義字：stopover	
+房地產	lease	n./v.	租約	The office lease is set to expire in December.	考點：租賃契約	
+房地產	landlord	n.	房東	The landlord will renovate the building next year.	反義字：tenant	
+房地產	property	n.	房產/財產	The real estate agent showed us several properties.	同義字：real estate	
+房地產	tenant	n.	房客	The tenant signed a two-year lease for the flat.	對應：rent	
+房地產	renovate	v.	翻新/裝修	The company plans to renovate its main branch.	名詞：renovation	
+房地產	occupancy	n.	佔用/居住	The occupancy rate of the building is 95%.	形容詞：occupied	
+房地產	utility	n.	公共設施/水電	Utilities like water and electricity are included in the rent.	考點：雜費	
+房地產	premises	n.	房屋/經營場所	No smoking is allowed on the premises.	考點：廠區場所	
+房地產	mortgage	n.	抵押貸款	They are paying off a 20-year mortgage.	動詞：抵押	
+房地產	agent	n.	經紀人	The real estate agent helped us find an office.	考點：房地產仲介	
